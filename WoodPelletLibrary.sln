@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoodPelletibrary", "DoodPelletibrary\DoodPelletibrary.csproj", "{61869AA1-F95A-4886-B34E-E44A8535A24C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WoodpelletLibrary test", "WoodpelletLibrary test\WoodpelletLibrary test.csproj", "{E8181FA1-D925-4587-BFA8-18DDED1F719B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REST api WoodPellet", "REST api WoodPellet\REST api WoodPellet.csproj", "{99B1EC3A-E928-4885-9706-DB4480AD0823}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61869AA1-F95A-4886-B34E-E44A8535A24C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61869AA1-F95A-4886-B34E-E44A8535A24C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61869AA1-F95A-4886-B34E-E44A8535A24C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61869AA1-F95A-4886-B34E-E44A8535A24C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8181FA1-D925-4587-BFA8-18DDED1F719B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8181FA1-D925-4587-BFA8-18DDED1F719B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8181FA1-D925-4587-BFA8-18DDED1F719B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8181FA1-D925-4587-BFA8-18DDED1F719B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99B1EC3A-E928-4885-9706-DB4480AD0823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B1EC3A-E928-4885-9706-DB4480AD0823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B1EC3A-E928-4885-9706-DB4480AD0823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B1EC3A-E928-4885-9706-DB4480AD0823}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7E70519-9240-4079-AAC7-D6AEAA261C3C}
+	EndGlobalSection
+EndGlobal
